@@ -2,6 +2,11 @@
 
 ## Problems Solved:
 
+
+1. **Merge Strings Alternately (LeetCode #1768)**  
+   - **Description**: You are given two strings word1 and word2. Merge them alternately, starting with word1. If there are extra characters in either string, append them to the end of the merged string  
+   - **Link to Problem**: [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75)
+
 2. **Greatest Common Divisor of Strings (LeetCode #1071)**  
    - **Description**: Find the greatest common divisor string between two input strings.  
    - **Link to Problem**: [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/?envType=study-plan-v2&envId=leetcode-75)
